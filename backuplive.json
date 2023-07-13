@@ -10,11 +10,11 @@
 
             "links": [
             {
-                "type": "HD",
+                "name": "HD",
                 "link": "http://68.183.228.225:80/fotlive/fotlive/1"
             },
             {
-                "type": "SD",
+                "name": "SD",
                 "link": "https://pull01.rrwes.live/live/stream-991128_lsd.m3u8?txSecret=a507ea05ec1145d629c1335e22661a57&txTime=64a9dac4"
             }
         ]
