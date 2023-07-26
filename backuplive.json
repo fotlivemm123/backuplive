@@ -1,12 +1,13 @@
  [
         {
             "league_name": "🏆 EURO U21 Quarter-final",
+            "date": "July 1",
+            "time": "live",
             "home_name": "Georgia U21",
             "away_name": "Israel U21",
             "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5855_small.png",
             "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5828_small.png",
-            "date": "July 1",
-            "time": "live",
+         
 
             "links": [
             {
@@ -21,6 +22,121 @@
             }
         ]
             
-        }
+        },
+
+  {
+"league": "🏆 Club Friendly Games",
+"date": "July 27",
+"time": "6:45 AM",
+"home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+"away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+
+"home_name" : "Chelsea",
+"away_name" : "Newcastle",
+
+"links":[
+{
+"name": "360 SD",
+"link":"",
+  "farri": ""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 27",
+"time": "7:00 AM",
+"home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+"away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+
+"home_name" : "Man United",
+"away_name" : "Real Madrid",
+
+"links":[
+{
+"name": "360 SD",
+"link":"",
+  "farri": "https://seehdgames.xyz/"
+}, 
+{
+"name": "480 HD",
+"link":"",
+ "farri": "https://seehdgames.xyz/"
+},
+{
+"name": "720 FHD",
+"link":"",
+ "farri": "https://seehdgames.xyz/"
+}
+]
+},
+
+{
+"league": "🏆 Women World Cup Grp. E",
+"date": "July 27",
+"time": "7:30 AM",
+"home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5909_small.png",
+"away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/159980_small.png",
+
+"home_name" : "USA",
+"away_name" : "Netherlands",
+
+"links":[
+{
+"name": "360 SD",
+"link":"",
+  "farri": "https://seehdgames.xyz/"
+}, 
+{
+"name": "480 HD",
+"link":"",
+ "farri": "https://seehdgames.xyz/"
+},
+{
+"name": "720 FHD",
+"link":"",
+ "farri": "https://seehdgames.xyz/"
+}
+]
+},
+
+ 
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 27",
+"time": "9:00 AM",
+"home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+
+"home_name" : "Arsenal",
+"away_name" : "Barcelona",
+
+"links":[
+{
+"name": "360 SD",
+"link":"",
+  "farri": "https://seehdgames.xyz/"
+}, 
+{
+"name": "480 HD",
+"link":"",
+ "farri": "https://seehdgames.xyz/"
+},
+{
+"name": "720 FHD",
+"link":"",
+ "farri": "https://seehdgames.xyz/"
+}
+]
+}
+
+
+
+
+
+  
     ]
 
