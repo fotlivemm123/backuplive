@@ -11,13 +11,13 @@
             "links": [
             {
                 "name": "HD",
-                "link": "https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8",
-                 "farri": ""
+                "link": "https://seehdgames.store/chunklist/hlsch20.m3u8",
+                 "farri": "https://seehdgames.xyz/"
             },
             {
                 "name": "SD",
-                "link": "https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8",
-                "farri": ""
+                "link": "https://seehdgames.store/chunklist/hlsch20.m3u8",
+                "farri": "https://seehdgames.xyz/"
             }
         ]
             
