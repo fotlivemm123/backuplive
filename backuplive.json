@@ -1,31 +1,8 @@
  [
-        {
-            "league_name": "🏆 EURO U21 Quarter-final",
-            "date": "July 1",
-            "time": "live",
-            "home_name": "Georgia U21",
-            "away_name": "Israel U21",
-            "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5855_small.png",
-            "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5828_small.png",
-         
-
-            "links": [
-            {
-                "name": "HD",
-                "link": "https://seehdgames.store/chunklist/hlsch20.m3u8",
-                 "farri": "https://seehdgames.xyz/"
-            },
-            {
-                "name": "SD",
-                "link": "https://seehdgames.store/chunklist/hlsch20.m3u8",
-                "farri": "https://seehdgames.xyz/"
-            }
-        ]
-            
-        },
+        
 
   {
-"league": "🏆 Club Friendly Games",
+"league_name": "🏆 Club Friendly Games",
 "date": "July 27",
 "time": "6:45 AM",
 "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
@@ -45,7 +22,7 @@
 
  
 {
-"league": "🏆 Club Friendly Games",
+"league_name": "🏆 Club Friendly Games",
 "date": "July 27",
 "time": "7:00 AM",
 "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
@@ -74,7 +51,7 @@
 },
 
 {
-"league": "🏆 Women World Cup Grp. E",
+"league_name": "🏆 Women World Cup Grp. E",
 "date": "July 27",
 "time": "7:30 AM",
 "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5909_small.png",
@@ -105,7 +82,7 @@
  
  
 {
-"league": "🏆 Club Friendly Games",
+"league_name": "🏆 Club Friendly Games",
 "date": "July 27",
 "time": "9:00 AM",
 "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
