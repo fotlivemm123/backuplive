@@ -11,11 +11,13 @@
             "links": [
             {
                 "name": "HD",
-                "link": "https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8"
+                "link": "https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8",
+                 "farri": ""
             },
             {
                 "name": "SD",
-                "link": "https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8"
+                "link": "https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8",
+                "farri": ""
             }
         ]
             
